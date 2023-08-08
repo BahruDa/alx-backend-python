@@ -1,7 +1,7 @@
 # 0x02. Python - Async Comprehension
 
 ## Resources
-Read or watch:
+Read:
 
 * [PEP 530 – Asynchronous Comprehensions](https://www.python.org/dev/peps/pep-0530/)
 * [What’s New in Python: Asynchronous Comprehensions / Generators](https://www.blog.pythonlibrary.org/2017/02/14/whats-new-in-python-asynchronous-comprehensions-generators/)
